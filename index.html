@@ -1,9 +1,134 @@
+
 <!DOCTYPE html>
 <html>
-    <head>
-    </head>
-    <body>
-        Hello Yikulju
-    </body>
+	<head>
+	    <meta name="viewport" content="width=device-width">
+ 
+		<style>
+		    body {
+		        font-family: 'Helvetica Neue', Arial, sans-serif;
+		        line-height: 1.2;
+		        margin: 0;
+		        padding: 0;
+		    }
+ 
+		    h1 {
+                font-size: 1.8em;
+                line-height: 1.0em;
+		    }
+ 
+		    ul {
+		        list-style-type: none;
+		        margin: 0;
+		        padding: 0;
+		    }
+ 
+		    ul li {
+		        color: white;
+		        padding: 0;
+		        display: inline-block;
+		    }
+ 
+		    a {
+		        color: black;
+		        color: white;
+		        display: inline-block;
+		        padding: 2px;
+		        margin: 2px;
+		    }
+ 
+		    .box {
+		        -webkit-border-top-right-radius: 10.2em;
+                -moz-border-radius-topright: 1.2em;
+                border-top-right-radius: 1.2em;
+                width: 50%;
+                min-width: 280px;
+                padding: 20px;
+                color: white;
+                -webkit-transition: all 1s linear;
+                margin: 20px 0;
+		    }
+ 
+		    .box:hover {
+		        opacity: 0.6;
+		    }
+ 
+		    .box .inner {
+                width: 280px;
+                margin-left: auto;
+		    }
+ 
+		    .boxtype1 {
+		        background: #F90;
+		    }
+ 
+		    .boxtype2 {
+		        background: red;
+		    }
+ 
+		    .boxtype3 {
+		        background: #06F;
+		    }
+ 
+		</style>
+	</head>
+	<body>
+	    <div class="box boxtype1">
+	        <div class="inner">
+        	    <h1>Viktor Kelemen</h1>
+        	    <p>Senior front-end engineer, living in Zen in Japan and chose the power of JavaScript.</p>
+        	</div>
+    	</div>
+    	<div class="box boxtype2">
+    	    <div class="inner">
+                <p class="desc">I'm a front-end engineer keen on Javascript, HTML5, CSS3 and location based application development for smartphones.</p>
+                <p class="desc">Currently, I'm working at <a href="http://cookpad.com/">Cookpad</a>in Tokyo/Japan.</p>
+                <p class="desc">Formerly at Prezi and YAHOO!Japan.</p>
+            </div>
+        </div>
+        <div class="box boxtype3">
+            <div class="inner">
+                <ul class="me_links">
+                    <li><a class="cv url highlighted" href="viktor_kelemen_cv.txt">CV</a></li>
+                    <li><a class="blog url highlighted" href="http://saikotroid.blogspot.com/">Blog</a></li>
+                    <li><a class="linkedin url highlighted" href="http://www.linkedin.com/pub/7/472/528">LinkedIn</a></li>
+                    <li><a class="github url highlighted" href="http://github.com/yikulju">GitHub</a></li>
+                    <li><a class="url" href="http://whatimworkingon.tumblr.com">WhatImWorkingOn</a></li>
+                    <li><a class="twitter url " href="http://twitter.com/kelemen_viktor">Twitter</a></li>
+                    <li><a class="friendfeed url" href="http://friendfeed.com/yikulju">Friendfeed</a></li>
+                    <li><a class="lastfm url" href="http://www.last.fm/user/kelemen">Last.fm</a></li>
+                    <li><a class="tumblr" href="http://instantkotteri.tumblr.com/">Instantkotteri</a></li>
+                    <li><a class="tumblr" href="http://blackandheight.tumblr.com/">Black and height</a></li>
+                    <li><a class="youtube url" href="http://www.youtube.com/kelemenviktor">Youtube</a></li>
+                    <li><a class="flickr url" href="http://flickr.com/photos/kelemen_viktor">Flickr</a></li>
+                    <li><a class="delicious url" href="http://del.icio.us/solarforce">Del.icio.us</a></li>
+                    <li><a class="dopplr url" href="http://www.dopplr.com/traveller/KelemenViktor">Dopplr</a></li>
+                    <li><a class="facebook url" href="http://www.facebook.com/profile.php?id=1077486621">Facebook</a></li>
+                </ul>
+            </div>
+        </div>
+ 
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
+		<script>
+		    var colors = [ "#F90", "red", "#06F", "#F09", "blue" ];
+ 
+		    function setColors() {
+ 
+		        $(".box").each( function (index, element) {
+ 
+		            var rnd = Math.floor(Math.random() * colors.length);
+		            $(element).css({ background: colors[rnd] });
+		        });
+		    }
+ 
+		    $( function () {
+ 
+		        setInterval( setColors, 3000);
+		    });
+ 
+		</script>
+
+
+	</body>
 </html>
 
