@@ -1,0 +1,110 @@
+VIKTOR KELEMEN
+Japan, Tokyo
++81 08043481025
+kelemen.viktor@gmail.com
+
+http://yikulju.com/
+http://whatimworkingon.tumblr.com/
+http://saikotroid.blogspot.com/
+https://github.com/yikulju
+
+
+Currently I'm keen on Scrum and Smartphone web app development.
+
+--------------------
+
+1. Specialties
+
+JavaScript (7 years experience)
++ jQuery, YUI, Dojo, ExtJS,
++ NodeJS, Express JS
++ CoffeeScript
+
+HTML/CSS
++ CSS3, HTML5
++ HAML, SASS, ERB, EJS
+
+TDD
++ RSpec, YUI test, Selenium
+
+Ruby on Rails, Merb, Django
+
+Git, Bazaar, SVN
+
+Browser extension development
+
+MongoDB
+
+MacOS, Command-line
+
+Vim
+
+ActionScript, Assembly, C++, Python, Ruby, Scheme, AppleScript, Bash occasionally
+Basics of graphic and interaction design
+
+Strong coding skills
+
+Experience with agile software development
+
+--------------------
+
+2. Experience
+
+Smartphone engineer at Cookpad Inc.
++ I'm working on various smartphone web products related to the Cookpad brand.
++ Tokyo, April 2011 -
+
+
+Front-end engineer at Colopl Inc.
++ I was working on the iPhone/Android version of the company's flagship products using HTML/CSS/JavaScript, besides that I spend a lot of time to coach colleagues about web technologies and agile software development.
++ The communication with colleagues was in English and in Japanese.
++ Tokyo, October 2010 - April 2011
+
+User Experience Software Design Engineer at Cirius (later Yahoo! Japan)
++ I was working on a web interface of a location based advertisement platform.
++ The communication with colleagues was in English and in Japanese.
++ This company was acquired by Yahoo! Japan in August 2010
++ Tokyo, August 2009 - October 2010
+
+Lead developer at Prezi.com (ZuiPrezi LTD)
++ I was working on a zooming presentation tool, that TED conference and Institute For The Future also use. I was responsible for the whole front-end code (prezi.com and the flash based prezi editor). I wrote the code in JavaScript with jQuery, in ActionScript 3 with Flex and in Python with Django.
++ Budapest, May 2008 - August 2009
+
+Developer at VisualMinds
++ I was working on a node based visual editor written in Flash. I was also responsible for managing the community created around the product.
++ Budapest, May 2009 - July 2009
+
+Researcher at Kitchen Budapest
++ I was contributing to several projects based on the Arduino electronics prototyping platform. I was the "HTML/JavaScript" guy in the lab.
++ Budapest, December 2007 - May 2008
+
+Front-end developer at Computer and Automation Research Institute, Hungarian Academy of Sciences
++ Project management, front-end development, UI design
++ Budapest, March 2006 - May 2008
+
+Sitebuilder at Crane International
++ Front-end development, graphics design
++ Netherlands (remote), January 2006 - January 2008
+
+Teacher at Obudai Zsigmond Liceum and Korosi Csoma Sándor Secondary School
++ Teaching informatics and web technologies
++ Budapest, 2002 - 2005
+
+Demoscene member
++ Coding, composing music
++ 1998 - 2001
+
+--------------------
+
+3. Qualifications
+
+R&D course at the Hungarian Academy of Sciences
+September 2007 - December 2007
+
+Eotvos Lorand Science University - Faculty of Informatics - M. Sc.
+2004 - 2007
+Research on Computer Graphics and Software engineering.
+
+Eotvos Lorand Science University - Faculty of Informatics - B. Sc.
+2001 - 2004
+
